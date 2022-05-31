@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea40a666-a07d-4179-8923-a338d26f0701": {
+      "ProjectGuid": "ea40a666-a07d-4179-8923-a338d26f0701",
+      "DisplayName": "PracticalAssignment",
+      "ColorIndex": 0
+    },
+    "c292fff8-2114-44e0-94d2-76e85f5d7c06": {
+      "ProjectGuid": "c292fff8-2114-44e0-94d2-76e85f5d7c06",
+      "DisplayName": "PracticalAssignment.Data",
+      "ColorIndex": 1
+    },
+    "a889b2bd-3e20-4fd2-9e03-4b3966df8f0b": {
+      "ProjectGuid": "a889b2bd-3e20-4fd2-9e03-4b3966df8f0b",
+      "DisplayName": "PracticalAssignment.Business",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

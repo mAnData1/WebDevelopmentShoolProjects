@@ -1,0 +1,12 @@
+D:\yordan_12j\webApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\yordan_12j\webApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\yordan_12j\webApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\yordan_12j\webApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\yordan_12j\webApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\yordan_12j\webApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\yordan_12j\webApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\yordan_12j\webApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\yordan_12j\webApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\yordan_12j\webApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\yordan_12j\webApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\yordan_12j\webApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

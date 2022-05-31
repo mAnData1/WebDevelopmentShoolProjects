@@ -1,0 +1,11 @@
+﻿@using PracticalAssignment.Business.Model.Authors
+@model List<AuthorModel>
+
+<ul>
+
+    @foreach (var user in Model)
+    {
+        <li>@user.Name</li>
+    }
+
+</ul>

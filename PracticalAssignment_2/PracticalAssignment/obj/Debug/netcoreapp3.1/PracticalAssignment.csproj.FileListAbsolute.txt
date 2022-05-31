@@ -1,0 +1,197 @@
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.exe
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.deps.json
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.runtimeconfig.json
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Views.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Business.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Business.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\staticwebassets\PracticalAssignment.StaticWebAssets.Manifest.cache
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.csproj.CopyComplete
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.exe
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.deps.json
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.runtimeconfig.json
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Views.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\staticwebassets\PracticalAssignment.StaticWebAssets.Manifest.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.csproj.CopyComplete
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.genruntimeconfig.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.exe
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.deps.json
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.runtimeconfig.json
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.runtimeconfig.dev.json
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.pdb
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Views.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.pdb
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.csprojAssemblyReference.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.AssemblyInfoInputs.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.AssemblyInfo.cs
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.csproj.CoreCompileInputs.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.MvcApplicationPartsAssemblyInfo.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\staticwebassets\PracticalAssignment.StaticWebAssets.Manifest.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\staticwebassets\PracticalAssignment.StaticWebAssets.xml
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\scopedcss\bundle\PracticalAssignment.styles.css
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.RazorTargetAssemblyInfo.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.csproj.CopyComplete
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.pdb
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment\obj\Debug\netcoreapp3.1\PracticalAssignment.genruntimeconfig.cache

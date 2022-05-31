@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fac5309-1bdc-402f-8bc2-80bf2fffd53d": {
+      "ProjectGuid": "5fac5309-1bdc-402f-8bc2-80bf2fffd53d",
+      "DisplayName": "PracticalAssignmentAPIOlderVersion",
+      "ColorIndex": 0
+    },
+    "c7c2a523-1495-4499-8a82-ad990d8f6659": {
+      "ProjectGuid": "c7c2a523-1495-4499-8a82-ad990d8f6659",
+      "DisplayName": "PracticalAssignmentAPIOlderVersion.DataAccess",
+      "ColorIndex": 1
+    },
+    "d99c7277-c97b-4ef8-a71e-afb020b2344c": {
+      "ProjectGuid": "d99c7277-c97b-4ef8-a71e-afb020b2344c",
+      "DisplayName": "PracticalAssignmentAPIOlderVersion.Business",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,25 @@
+
+  div{
+      width: 210px;
+      height: 140px;
+      margin: 100px;
+      border: 10px;
+      background-color: #c01303;
+      padding: 20px;
+    }
+
+ .border1{
+       border: 2px solid #03C04A;
+       border-radius: 5px;
+       padding: 5px;
+   }
+
+  .border2{
+       border: 2px solid blue;
+       border-radius: 5px;
+   }
+   .border3{
+       border: 4px solid black;
+   }
+    
+  

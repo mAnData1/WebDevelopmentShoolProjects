@@ -1,0 +1,38 @@
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.deps.json
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.runtimeconfig.json
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.dll
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.deps.json
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.runtimeconfig.json
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.dll
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.pdb
+C:\Users\Ivan\source\repos\PracticalAssignment - Copy (2)\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.genruntimeconfig.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.deps.json
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.runtimeconfig.json
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.runtimeconfig.dev.json
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\bin\Debug\netcoreapp3.1\PracticalAssignment.Data.pdb
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.csprojAssemblyReference.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.AssemblyInfoInputs.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.AssemblyInfo.cs
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.csproj.CoreCompileInputs.cache
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.dll
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.pdb
+D:\PracticalAssignmentV2\PracticalAssignment\PracticalAssignment.Data\obj\Debug\netcoreapp3.1\PracticalAssignment.Data.genruntimeconfig.cache

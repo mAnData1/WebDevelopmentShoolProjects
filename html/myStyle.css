@@ -1,0 +1,33 @@
+
+  div{
+    position: absolute;
+    top: 45%;
+    right: 45%;
+    left: 45%;
+    bottom: 45%;
+    width: 260px;
+    height: 180px;
+    border: 10px;
+    padding: 2%;
+    background-color: #db9c96;
+    }
+
+ .border1{
+
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: 5px;
+   }
+
+  .border2{
+    
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+   }
+   .border3:nth-child(even) {
+    
+    background-color: #dddddd;
+  }
+    
+  
